@@ -3,7 +3,7 @@
 ### Aim & context
 
 ##### The attention revolves on the effects of the Covid-19 pandemic on businesses. All businesses in every country have been affected positively or negatively throughout the world. 
-However, the project focuses on the impact of covid in the UK's corporations to make it easier to understand and see the effects for the period 01/2019 until 12/2021.
+##### However, the project focuses on the impact of covid in the UK's corporations to make it easier to understand and see the effects for the period 01/2019 until 12/2021.
 
 ### Dataset
 
