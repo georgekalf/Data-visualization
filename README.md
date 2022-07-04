@@ -1,3 +1,5 @@
+![banner image](https://www.physiology.org/images/default-source/images-for-testing/covid-19.jpg?sfvrsn=b12e0bb3_2)
+
 # Data-visualization
 
 ### Aim & context
