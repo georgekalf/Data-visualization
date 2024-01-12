@@ -40,7 +40,7 @@ The project concludes with a geospatial representation of new incorporations in 
 
 ## Conclusion
 
-In conclusion, despite the challenges brought about by the Covid-19 pandemic, opportunities for new incorporations emerged in the UK. Factors such as government loans, bank support, and entrepreneurial initiatives played crucial roles in sustaining business growth. While there were periods of stagnation or decline, the overall trajectory suggests resilience and adaptability within the business landscape.
+Despite the challenges brought about by the Covid-19 pandemic, opportunities for new incorporations emerged in the UK. Factors such as government loans, bank support, and entrepreneurial initiatives played crucial roles in sustaining business growth. While there were periods of stagnation or decline, the overall trajectory suggests resilience and adaptability within the business landscape.
 
 
 
