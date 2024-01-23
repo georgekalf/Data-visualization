@@ -4,17 +4,17 @@
 
 ## Overview and Purpose of the Repository
 
-This repository serves as a comprehensive analysis of the impact of the Covid-19 pandemic on businesses in the United Kingdom. Leveraging various Python visualization libraries, the project spans from January 2019 to December 2021, offering insights into various industries using Seaborn and Plotly for creating compelling visualizations.
+This repository serves as a demonstration of utilizing different Python visualization libraries to analyze and visualize the impact of the Covid-19 pandemic on businesses in the United Kingdom. The project spans from January 2019 to December 2021, offering insights into various industries using both Seaborn and Plotly for creating compelling visualizations. The initial line chart showcases the same data but implemented with both libraries, providing a comparative view of their visualization styles.
 
 ---
 
 ## Key Findings
 
-### 1. Overall Impact on New Incorporations (Seaborn Line Chart)
+### 1. Overall Impact on New Incorporations (Seaborn and Plotly Line Charts)
 
 The project begins by analyzing trends in new incorporations across the largest and smallest industries in the UK. After each of the three lockdowns, a significant number of new companies emerged, with four out of five minor sectors experiencing growth. The observations suggest potential factors such as government loans and entrepreneurial initiatives.
 
-**Figure 1:** Seaborn Line Graph depicting new incorporations in the UK's largest and smallest industries over a three-year span (2019-2020).
+**Figure 1:** Comparative Line Charts depicting new incorporations in the UK's largest and smallest industries over a three-year span (2019-2020), implemented with Seaborn and Plotly.
 
 ### 2. Sector-Specific Insights (Interactive Plotly Line Chart)
 
