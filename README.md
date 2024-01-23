@@ -6,41 +6,46 @@
 
 ---
 
+## Purpose of the Repository
+
+This repository serves as a demonstration of utilizing different Python visualization libraries to analyze and visualize the impact of the Covid-19 pandemic on businesses in the United Kingdom. The project spans from January 2019 to December 2021, offering insights into various industries using Seaborn and Plotly for creating compelling visualizations.
+
+---
+
 ## Overview
 
-This project aims to explore the effects of the Covid-19 pandemic on businesses in the United Kingdom. It investigates how different industries, both large and small, were influenced during the period from January 2019 to December 2021.
+This project explores the effects of the Covid-19 pandemic on businesses in the United Kingdom from January 2019 to December 2021. It leverages various Python visualization libraries to provide comprehensive insights into the impact on different industries.
 
 ---
 
 ## Key Findings
 
-### 1. Overall Impact on New Incorporations
+### 1. Overall Impact on New Incorporations (Seaborn Line Chart)
 
-The project starts by analyzing the trends in new incorporations across the largest and smallest industries in the UK. Notably, after each of the three lockdowns, a significant number of new companies emerged, with four out of five minor sectors experiencing growth. The observations suggest potential factors such as government loans and entrepreneurial initiatives.
+The project begins by analyzing trends in new incorporations across the largest and smallest industries in the UK. After each of the three lockdowns, a significant number of new companies emerged, with four out of five minor sectors experiencing growth. The observations suggest potential factors such as government loans and entrepreneurial initiatives.
 
-**Figure 1:** Line graph depicting new incorporations in the UK's largest and smallest industries over a three-year span (2019-2020).
+**Figure 1:** Seaborn Line Graph depicting new incorporations in the UK's largest and smallest industries over a three-year span (2019-2020).
 
-### 2. Sector-Specific Insights
+### 2. Sector-Specific Insights (Interactive Plotly Line Chart)
 
 After the first lockdown, the 'Public administration and defence; compulsory social security' sector saw a substantial increase in new incorporations, followed by a decline after the third lockdown. In contrast, 'Mining and Quarrying' showed minimal impact. The largest industries generally experienced growth after each lockdown, particularly after the first. Notably, 'Wholesale and retail trade' demonstrated a notable increase.
 
-### 3. Focus on London's Largest Industries
+**Figure 2:** Interactive Plotly Line Chart illustrating sector-specific insights with smoother lines, providing a dynamic representation of the trends.
+
+### 3. Focus on London's Largest Industries (Plotly Bar Chart)
 
 The analysis extends to London, examining trends in new incorporations among the largest industries. Despite the three lockdowns, most sectors exhibited growth, with only a 3% decrease in 'Professional activities.' 'Wholesale and retail' and 'Construction' saw significant fluctuations, indicating a dynamic response to the pandemic.
 
-**Figure 2:** Bar chart illustrating new incorporations of the largest industries in London from 2019 to 2021, with percentage changes year-over-year.
+**Figure 3:** Plotly Bar Chart illustrating new incorporations of the largest industries in London from 2019 to 2021, with percentage changes year-over-year.
 
-### 4. Geospatial Analysis of Real Estate Activities
+### 4. Geospatial Analysis of Real Estate Activities (Plotly Geospatial Chart)
 
 The project concludes with a geospatial representation of new incorporations in the 'Real estate activities' sector. This industry, a significant player in the UK, witnessed new incorporations mainly around the London zone but spread across the entire country. The analysis reveals emerging opportunities and growth areas, showcasing the resilience of businesses amidst the challenges posed by the pandemic.
 
-**Figure 3:** Geospatial graph depicting 'Real estate activities' new incorporations in the UK over the last three years.
+**Figure 4:** Plotly Geospatial Chart depicting 'Real estate activities' new incorporations in the UK over the last three years.
 
 ---
 
 ## Conclusion
 
 Despite the challenges brought about by the Covid-19 pandemic, opportunities for new incorporations emerged in the UK. Factors such as government loans, bank support, and entrepreneurial initiatives played crucial roles in sustaining business growth. While there were periods of stagnation or decline, the overall trajectory suggests resilience and adaptability within the business landscape.
-
-
-
