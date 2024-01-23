@@ -1,20 +1,10 @@
 ![banner image](https://www.physiology.org/images/default-source/images-for-testing/covid-19.jpg?sfvrsn=b12e0bb3_2)
 
-# Project Name
+# Project Name: COVID-19 Impact on Businesses in the UK
 
-## COVID-19 Impact on Businesses in the UK
+## Overview and Purpose of the Repository
 
----
-
-## Purpose of the Repository
-
-This repository serves as a demonstration of utilizing different Python visualization libraries to analyze and visualize the impact of the Covid-19 pandemic on businesses in the United Kingdom. The project spans from January 2019 to December 2021, offering insights into various industries using Seaborn and Plotly for creating compelling visualizations.
-
----
-
-## Overview
-
-This project explores the effects of the Covid-19 pandemic on businesses in the United Kingdom from January 2019 to December 2021. It leverages various Python visualization libraries to provide comprehensive insights into the impact on different industries.
+This repository serves as a comprehensive analysis of the impact of the Covid-19 pandemic on businesses in the United Kingdom. Leveraging various Python visualization libraries, the project spans from January 2019 to December 2021, offering insights into various industries using Seaborn and Plotly for creating compelling visualizations.
 
 ---
 
