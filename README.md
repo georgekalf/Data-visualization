@@ -4,35 +4,35 @@
 
 ## Overview and Purpose of the Repository
 
-This repository serves as a demonstration of utilizing different Python visualization libraries to analyze and visualize the impact of the Covid-19 pandemic on businesses in the United Kingdom. The project spans from January 2019 to December 2021, offering insights into various industries using both Seaborn and Plotly for creating compelling visualizations. The initial line chart showcases the same data but implemented with both libraries, providing a comparative view of their visualization styles.
+This repository serves as a demonstration of utilizing different Python visualization libraries to analyze and visualize the impact of the Covid-19 pandemic on businesses in the United Kingdom. The project spans from January 2019 to December 2021, offering insights into various industries using both Seaborn and Plotly for creating compelling visualizations.
 
 ---
 
 ## Key Findings
 
-### 1. Overall Impact on New Incorporations (Seaborn and Plotly Line Charts)
+### 1. Comparative Line Charts (Seaborn and Plotly)
 
-The project begins by analyzing trends in new incorporations across the largest and smallest industries in the UK. After each of the three lockdowns, a significant number of new companies emerged, with four out of five minor sectors experiencing growth. The observations suggest potential factors such as government loans and entrepreneurial initiatives.
+The first figure showcases a comparative view of the same data using both Seaborn and Plotly for line chart visualizations. This provides insights into the visual styles of these libraries.
 
 **Figure 1:** Comparative Line Charts depicting new incorporations in the UK's largest and smallest industries over a three-year span (2019-2020), implemented with Seaborn and Plotly.
 
-### 2. Sector-Specific Insights (Interactive Plotly Line Chart)
+### 2. Interactive Bar Chart - London's Largest Industries (Plotly)
 
-After the first lockdown, the 'Public administration and defence; compulsory social security' sector saw a substantial increase in new incorporations, followed by a decline after the third lockdown. In contrast, 'Mining and Quarrying' showed minimal impact. The largest industries generally experienced growth after each lockdown, particularly after the first. Notably, 'Wholesale and retail trade' demonstrated a notable increase.
+The second figure focuses on new incorporations in London, specifically among the largest industries. The chart utilizes Plotly to create an interactive bar chart, offering a dynamic representation of trends and fluctuations.
 
-**Figure 2:** Interactive Plotly Line Chart illustrating sector-specific insights with smoother lines, providing a dynamic representation of the trends.
+**Figure 2:** Plotly Bar Chart illustrating new incorporations of the largest industries in London from 2019 to 2021, with percentage changes year-over-year.
 
-### 3. Focus on London's Largest Industries (Plotly Bar Chart)
+### 3. Geospatial Analysis of 'Real Estate Activities' (Plotly)
 
-The analysis extends to London, examining trends in new incorporations among the largest industries. Despite the three lockdowns, most sectors exhibited growth, with only a 3% decrease in 'Professional activities.' 'Wholesale and retail' and 'Construction' saw significant fluctuations, indicating a dynamic response to the pandemic.
+The third figure provides a geospatial representation of new incorporations in the 'Real Estate Activities' sector in the UK. This Plotly chart showcases the geographical distribution of new companies in this significant industry.
 
-**Figure 3:** Plotly Bar Chart illustrating new incorporations of the largest industries in London from 2019 to 2021, with percentage changes year-over-year.
+**Figure 3:** Plotly Geospatial Chart depicting 'Real Estate Activities' new incorporations in the UK over the last three years.
 
-### 4. Geospatial Analysis of Real Estate Activities (Plotly Geospatial Chart)
+### 4. Animated Bubble Chart - Largest Industries (Plotly)
 
-The project concludes with a geospatial representation of new incorporations in the 'Real estate activities' sector. This industry, a significant player in the UK, witnessed new incorporations mainly around the London zone but spread across the entire country. The analysis reveals emerging opportunities and growth areas, showcasing the resilience of businesses amidst the challenges posed by the pandemic.
+The fourth figure is an animated bubble chart spanning a three-year time frame, illustrating the monthly performance of the largest industries from 2019 to 2021. This dynamic Plotly chart provides insights into the industries' performance on a monthly basis.
 
-**Figure 4:** Plotly Geospatial Chart depicting 'Real estate activities' new incorporations in the UK over the last three years.
+**Figure 4:** Animated Plotly Bubble Chart showcasing the monthly performance of the largest industries in the UK over a three-year span.
 
 ---
 
